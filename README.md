@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0400-nth-digit) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
