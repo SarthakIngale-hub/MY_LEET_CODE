@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0400-nth-digit) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Array
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
