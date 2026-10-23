@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Linked List
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0622-design-circular-queue) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
