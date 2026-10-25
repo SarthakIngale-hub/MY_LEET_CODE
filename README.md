@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0383-ransom-note) |
+| [1446-consecutive-characters](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1446-consecutive-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
