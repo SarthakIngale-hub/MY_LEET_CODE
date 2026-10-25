@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0067-add-binary) |
 | [0400-nth-digit](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0400-nth-digit) |
 | [0728-self-dividing-numbers](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1025-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SarthakIngale-hub/MY_LEET_CODE/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
